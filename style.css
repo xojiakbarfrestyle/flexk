@@ -1,0 +1,67 @@
+
+    *{
+        padding: 0; /*ichki tomondan joy*/
+        margin: 0; /*tashqi tomondan joy*/
+        box-sizing: border-box;
+        }
+        
+        img{
+        display: block;
+        width: 100%;
+        height: auto;
+        }
+        .otadiv{
+            display: flex;
+            justify-content: center;
+        }
+        
+        .card{
+            width: 500px;
+            border: 11px dotted black;
+            padding: 11px;
+            margin: 20px 15px;
+            text-align: center;
+        }
+        .img1{
+           height: 340px;
+        }
+        .img3{
+          height: 340px;
+        }
+
+
+#first{
+    border: 5px solid red;
+}
+#first1{
+    border: 5px dashed blue;
+}
+#first2{
+    border: 5px double  black;
+}
+.btn{
+    border: 1px solid green;
+    padding: 6px 25px;
+    color: burlywood;
+    background: white;
+    border-radius: 5px;
+}
+.btn1{
+    border: 1px solid green;
+    padding: 6px 25px;
+    color: blue;
+    background: white;
+    border-radius: 5px;
+}
+.btn2{
+    border: 1px solid green;
+    padding: 6px 25px;
+    color: yellowgreen;
+    background: white;
+    border-radius: 5px;
+}
+
+
+
+
+
